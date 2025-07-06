@@ -1,1 +1,1 @@
-# ETC_autoPrikratki
+# ETC autoPrikratki
